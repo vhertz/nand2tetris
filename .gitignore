@@ -1,0 +1,7 @@
+# dirs
+tools/
+demo/
+
+# not source files
+*.cmp
+*.tst
