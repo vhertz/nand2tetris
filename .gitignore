@@ -5,3 +5,4 @@ demo/
 # not source files
 *.cmp
 *.tst
+*.out
